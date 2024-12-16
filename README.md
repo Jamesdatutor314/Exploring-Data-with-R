@@ -66,3 +66,11 @@ Histograms of Study Times
 ![Screenshot Description](histboy.png)
 Boxplot for Summary Statistics
 ![Screenshot Description](boxplot.png)
+
+# Future Improvements
+- Use real-world datasets (e.g., Kaggle or UCI Machine Learning Repository).
+- Expand visualizations to include scatter plots and heatmaps.
+- Automate the generation of summary statistics and visualizations using functions.
+
+# Conclusion
+This project demonstrates the fundamentals of data exploration using R, from visualizations to probability analysis and experimental design. It highlights critical skills required for a data scientist, such as interpreting distributions, creating plots, and applying statistical concepts.
