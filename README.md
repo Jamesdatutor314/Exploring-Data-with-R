@@ -58,8 +58,11 @@ Results:
 
 **Key Visualizations**
 Dot Plot of Study Times
-
+![Screenshot Description](dotplot.png)
 Histograms of Study Times
-
+- Histogram For Women
+![Screenshot Description](histgirl.png)
+-Histogram For Men
+![Screenshot Description](histboy.png)
 Boxplot for Summary Statistics
-
+![Screenshot Description](boxplot.png)
